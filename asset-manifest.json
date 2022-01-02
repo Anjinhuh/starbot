@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/starbot/static/css/main.6a6cce69.css",
+    "main.css": "/starbot/static/css/main.4831077e.css",
     "main.js": "/starbot/static/js/main.d1fcfe03.js",
     "static/js/787.42a105d4.chunk.js": "/starbot/static/js/787.42a105d4.chunk.js",
     "static/media/logo-astr.svg": "/starbot/static/media/logo-astr.426a632c0053b3e0fc25836bc07dd482.svg",
     "index.html": "/starbot/index.html",
-    "main.6a6cce69.css.map": "/starbot/static/css/main.6a6cce69.css.map",
+    "main.4831077e.css.map": "/starbot/static/css/main.4831077e.css.map",
     "main.d1fcfe03.js.map": "/starbot/static/js/main.d1fcfe03.js.map",
     "787.42a105d4.chunk.js.map": "/starbot/static/js/787.42a105d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a6cce69.css",
+    "static/css/main.4831077e.css",
     "static/js/main.d1fcfe03.js"
   ]
 }
