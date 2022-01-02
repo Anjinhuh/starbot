@@ -1,4 +1,7 @@
-@import url('https://db.onlinewebfonts.com/c/4690a399ec7451ffc16d4494db1e0105?family=Bittypix+Monospace');
+@font-face {
+  font-family: 'Bittypix Monospace';
+  src: url(./fonts/4690a399ec7451ffc16d4494db1e0105.ttf);
+}
 /* 
     font-family: 'Sarala', sans-serif;
     font-family: 'Righteous', cursive;
