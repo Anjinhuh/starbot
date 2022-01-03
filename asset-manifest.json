@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/starbot/static/css/main.54887732.css",
+    "main.css": "/starbot/static/css/main.051d6234.css",
     "main.js": "/starbot/static/js/main.d1fcfe03.js",
     "static/js/787.42a105d4.chunk.js": "/starbot/static/js/787.42a105d4.chunk.js",
     "static/media/logo-astr.svg": "/starbot/static/media/logo-astr.426a632c0053b3e0fc25836bc07dd482.svg",
     "static/media/ttf": "/starbot/static/media/4690a399ec7451ffc16d4494db1e0105.82a573d5336c621f288f.ttf",
     "index.html": "/starbot/index.html",
-    "main.54887732.css.map": "/starbot/static/css/main.54887732.css.map",
+    "main.051d6234.css.map": "/starbot/static/css/main.051d6234.css.map",
     "main.d1fcfe03.js.map": "/starbot/static/js/main.d1fcfe03.js.map",
     "787.42a105d4.chunk.js.map": "/starbot/static/js/787.42a105d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54887732.css",
+    "static/css/main.051d6234.css",
     "static/js/main.d1fcfe03.js"
   ]
 }
